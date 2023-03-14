@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.listItem {
+  list-style-type: none;
+}
+
+.innerContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.date {
+  color: #616e7c;
+}
+
+.description {
+  color: #9aa5b1;
+}
